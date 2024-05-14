@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "published": "npm version patch && npm publish"
+    "pub": "npm version patch && npm publish"
   },
   "keywords": [
     "npm",
