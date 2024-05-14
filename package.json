@@ -1,6 +1,6 @@
 {
   "name": "mb-prro-kit",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Описание вашего пакета",
   "main": "index.mjs",
   "type": "module",
