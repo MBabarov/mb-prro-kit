@@ -1,0 +1,22 @@
+{
+  "name": "mb-prro-kit",
+  "version": "0.0.5",
+  "description": "Описание вашего пакета",
+  "main": "index.mjs",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "publish": "npm version patch && npm publish"
+  },
+  "keywords": [
+    "npm",
+    "package"
+  ],
+  "author": "MBabarov",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MBabarov/mb-prro-kit"
+  },
+  "dependencies": {}
+}
