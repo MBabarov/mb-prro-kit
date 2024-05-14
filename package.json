@@ -1,12 +1,12 @@
 {
   "name": "mb-prro-kit",
-  "version": "0.0.19",
+  "version": "0.0.20",
   "description": "Описание вашего пакета",
   "main": "index.mjs",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "publish": "npm version patch && npm publish"
+    "published": "npm version patch && npm publish"
   },
   "keywords": [
     "npm",
