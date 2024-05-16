@@ -1,7 +1,7 @@
 const receiptConfig = {
-  currency: 'грн',
+  currency: "грн",
   width: 40,
-  ruler: '-',
-}
+  ruler: "-",
+};
 
 export default receiptConfig;
